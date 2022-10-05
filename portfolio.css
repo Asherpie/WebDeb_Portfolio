@@ -13,10 +13,12 @@
 
 body, html { font-size: 100%; padding: 0; margin: 0; height: 100%;}
 
+/*
 #codrops-ad-wrapper {
 	top: auto !important;
 	bottom: 10px;
 }
+*/
 
 *,
 *:after,
@@ -194,6 +196,7 @@ img {
 	font-size: 2em;
 	margin-bottom: 10px;
 }
+
 
 .bl-icon-about {
 	color: #e4ae4e;
@@ -642,7 +645,7 @@ section.bl-expand .bl-icon-close {
 	padding: 20px;
 }
 
-	.icon {
+.icon {
 		background-color: #8a2e2e;
 		border-radius: 50%;
 		align-items: center;
@@ -653,7 +656,7 @@ section.bl-expand .bl-icon-close {
 		margin: 5%;
 		padding-top: 18px;
 		transition: 0.3s ease-in-out;
-	}
+}
 
 	.icon:hover {
 		transform: scale(1.1);
