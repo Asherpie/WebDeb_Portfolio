@@ -653,9 +653,12 @@ section.bl-expand .bl-icon-close {
 		font-size: 60px;
 		width: 100px;
 		height: 100px;
-		margin: 5%;
 		padding-top: 18px;
 		transition: 0.3s ease-in-out;
+}
+
+.icon-spacing{
+	margin: 5%;
 }
 
 	.icon:hover {
